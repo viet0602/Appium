@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13312" started-at="2021-03-03T18:08:28 ICT" finished-at="2021-03-03T18:08:41 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13312" started-at="2021-03-03T18:08:28 ICT" finished-at="2021-03-03T18:08:41 ICT">
+      <class name="testcases.Calculator">
+        <test-method status="PASS" signature="startDriverConnection()[pri:0, instance:testcases.Calculator@6950e31]" name="startDriverConnection" is-config="true" duration-ms="4690" started-at="2021-03-03T18:08:28 ICT" finished-at="2021-03-03T18:08:33 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriverConnection -->
+        <test-method status="PASS" signature="Clear()[pri:0, instance:testcases.Calculator@6950e31]" name="Clear" is-config="true" duration-ms="589" started-at="2021-03-03T18:08:33 ICT" finished-at="2021-03-03T18:08:33 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method status="PASS" signature="Minus()[pri:0, instance:testcases.Calculator@6950e31]" name="Minus" duration-ms="3767" started-at="2021-03-03T18:08:33 ICT" finished-at="2021-03-03T18:08:37 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Minus -->
+        <test-method status="PASS" signature="Clear()[pri:0, instance:testcases.Calculator@6950e31]" name="Clear" is-config="true" duration-ms="259" started-at="2021-03-03T18:08:37 ICT" finished-at="2021-03-03T18:08:37 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clear -->
+        <test-method status="PASS" signature="Subtraction()[pri:0, instance:testcases.Calculator@6950e31]" name="Subtraction" duration-ms="3714" started-at="2021-03-03T18:08:37 ICT" finished-at="2021-03-03T18:08:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtraction -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.Calculator@6950e31]" name="TearDown" is-config="true" duration-ms="229" started-at="2021-03-03T18:08:41 ICT" finished-at="2021-03-03T18:08:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
