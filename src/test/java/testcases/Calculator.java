@@ -42,7 +42,6 @@ public class Calculator extends AbstractTest {
 	@BeforeMethod
 	public void Clear() {
 		driver.findElementByAccessibilityId("Clear").click();
-		// Assert.assertEquals("0", _GetCalculatorResultText());
 	}
 
 	@Test
